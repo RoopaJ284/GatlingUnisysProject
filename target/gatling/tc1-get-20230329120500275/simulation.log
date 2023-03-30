@@ -1,0 +1,16 @@
+RUN	Simulations.TC1_GET	tc1-get	1680091500275	LoadTestForGetListUsers	3.6.1
+USER	To get the list of users from the database	START	1680091502034
+USER	To get the list of users from the database	START	1680091502034
+USER	To get the list of users from the database	START	1680091502034
+USER	To get the list of users from the database	START	1680091502034
+USER	To get the list of users from the database	START	1680091502034
+REQUEST		LIST USERS	1680091502144	1680091502334	OK	 
+USER	To get the list of users from the database	END	1680091502400
+REQUEST		LIST USERS	1680091502144	1680091502438	OK	 
+REQUEST		LIST USERS	1680091502144	1680091502438	OK	 
+USER	To get the list of users from the database	END	1680091502440
+USER	To get the list of users from the database	END	1680091502440
+REQUEST		LIST USERS	1680091502145	1680091502445	OK	 
+REQUEST		LIST USERS	1680091502144	1680091502447	OK	 
+USER	To get the list of users from the database	END	1680091502447
+USER	To get the list of users from the database	END	1680091502449

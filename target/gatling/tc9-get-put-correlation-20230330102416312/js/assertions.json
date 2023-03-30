@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC9_GET_PUT_CORRELATION",
+  "simulationId": "tc9-get-put-correlation",
+  "start": 1680171856312,
+  "description": "",
+  "scenarios": ["E2E TEST & CORRELATION"],
+  "assertions": [
+
+  ]
+}

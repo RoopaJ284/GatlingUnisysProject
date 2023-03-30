@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC3_AUTH_GET_API",
+  "simulationId": "tc3-auth-get-api",
+  "start": 1680153966689,
+  "description": "",
+  "scenarios": ["Test the authorization GET API to read all users data"],
+  "assertions": [
+
+  ]
+}

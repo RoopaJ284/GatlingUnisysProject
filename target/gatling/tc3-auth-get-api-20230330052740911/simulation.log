@@ -1,0 +1,7 @@
+RUN	Simulations.TC3_AUTH_GET_API	tc3-auth-get-api	1680154060911	 	3.6.1
+USER	Test the authorization GET API to read all users data	START	1680154062557
+USER	Test the authorization GET API to read all users data	START	1680154062554
+REQUEST		GET ALL USERS-AUTH API	1680154062613	1680154062867	OK	 
+REQUEST		GET ALL USERS-AUTH API	1680154062613	1680154062848	OK	 
+USER	Test the authorization GET API to read all users data	END	1680154062895
+USER	Test the authorization GET API to read all users data	END	1680154062896

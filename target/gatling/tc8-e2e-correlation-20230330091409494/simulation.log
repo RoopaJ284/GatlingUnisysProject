@@ -1,0 +1,4 @@
+RUN	Simulations.TC8_E2E_CORRELATION	tc8-e2e-correlation	1680167649494	a	3.6.1
+USER	End2End Testing of APIs using Correlation	START	1680167650922
+REQUEST		GET ALL USERS CREATED DATA	1680167650981	1680167651277	KO	jsonPath($[0].name).find.is(Kiran), but actually found Shakti Kakkar
+USER	End2End Testing of APIs using Correlation	END	1680167651479

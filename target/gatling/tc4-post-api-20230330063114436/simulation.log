@@ -1,0 +1,4 @@
+RUN	Simulations.TC4_POST_API	tc4-post-api	1680157874436	a	3.6.1
+USER	To create a user in the database	START	1680157876033
+REQUEST		CREATE USER API	1680157876082	1680157876645	KO	jsonPath($.name).find.is(Kiran), but actually found nothing
+USER	To create a user in the database	END	1680157876759

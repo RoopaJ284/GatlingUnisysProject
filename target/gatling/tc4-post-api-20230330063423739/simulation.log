@@ -1,0 +1,301 @@
+RUN	Simulations.TC4_POST_API	tc4-post-api	1680158063739	run	3.6.1
+USER	To create a user in the database	START	1680158065324
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065322
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065683
+USER	To create a user in the database	START	1680158065682
+USER	To create a user in the database	START	1680158065683
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065685
+USER	To create a user in the database	START	1680158065686
+USER	To create a user in the database	START	1680158065324
+USER	To create a user in the database	START	1680158065687
+USER	To create a user in the database	START	1680158065688
+USER	To create a user in the database	START	1680158065690
+USER	To create a user in the database	START	1680158065687
+USER	To create a user in the database	START	1680158065692
+USER	To create a user in the database	START	1680158065693
+USER	To create a user in the database	START	1680158065694
+USER	To create a user in the database	START	1680158065687
+USER	To create a user in the database	START	1680158065685
+USER	To create a user in the database	START	1680158065322
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065686
+USER	To create a user in the database	START	1680158065698
+USER	To create a user in the database	START	1680158065699
+USER	To create a user in the database	START	1680158065699
+USER	To create a user in the database	START	1680158065684
+USER	To create a user in the database	START	1680158065699
+USER	To create a user in the database	START	1680158065700
+USER	To create a user in the database	START	1680158065324
+USER	To create a user in the database	START	1680158065322
+USER	To create a user in the database	START	1680158065322
+USER	To create a user in the database	START	1680158065324
+USER	To create a user in the database	START	1680158065700
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065700
+USER	To create a user in the database	START	1680158065702
+USER	To create a user in the database	START	1680158065702
+USER	To create a user in the database	START	1680158065702
+USER	To create a user in the database	START	1680158065702
+USER	To create a user in the database	START	1680158065701
+USER	To create a user in the database	START	1680158065701
+USER	To create a user in the database	START	1680158065703
+USER	To create a user in the database	START	1680158065703
+USER	To create a user in the database	START	1680158065704
+USER	To create a user in the database	START	1680158065322
+USER	To create a user in the database	START	1680158065704
+USER	To create a user in the database	START	1680158065705
+USER	To create a user in the database	START	1680158065706
+USER	To create a user in the database	START	1680158065707
+USER	To create a user in the database	START	1680158065707
+USER	To create a user in the database	START	1680158065718
+USER	To create a user in the database	START	1680158065720
+USER	To create a user in the database	START	1680158065722
+USER	To create a user in the database	START	1680158065325
+USER	To create a user in the database	START	1680158065685
+USER	To create a user in the database	START	1680158065734
+USER	To create a user in the database	START	1680158065698
+USER	To create a user in the database	START	1680158065737
+USER	To create a user in the database	START	1680158065738
+USER	To create a user in the database	START	1680158065738
+USER	To create a user in the database	START	1680158065699
+USER	To create a user in the database	START	1680158065700
+USER	To create a user in the database	START	1680158065740
+USER	To create a user in the database	START	1680158065747
+USER	To create a user in the database	START	1680158065753
+USER	To create a user in the database	START	1680158065703
+USER	To create a user in the database	START	1680158065705
+USER	To create a user in the database	START	1680158065705
+USER	To create a user in the database	START	1680158065735
+USER	To create a user in the database	START	1680158065704
+USER	To create a user in the database	START	1680158065768
+USER	To create a user in the database	START	1680158065771
+USER	To create a user in the database	START	1680158065740
+USER	To create a user in the database	START	1680158065783
+USER	To create a user in the database	START	1680158065785
+USER	To create a user in the database	START	1680158065787
+USER	To create a user in the database	START	1680158065756
+USER	To create a user in the database	START	1680158065703
+USER	To create a user in the database	START	1680158065796
+USER	To create a user in the database	START	1680158065702
+USER	To create a user in the database	START	1680158065809
+USER	To create a user in the database	START	1680158065797
+USER	To create a user in the database	START	1680158065770
+USER	To create a user in the database	START	1680158065746
+USER	To create a user in the database	START	1680158065926
+USER	To create a user in the database	START	1680158065770
+USER	To create a user in the database	START	1680158065933
+USER	To create a user in the database	START	1680158065769
+USER	To create a user in the database	START	1680158065991
+USER	To create a user in the database	START	1680158065811
+USER	To create a user in the database	START	1680158066044
+USER	To create a user in the database	START	1680158066048
+USER	To create a user in the database	START	1680158066050
+REQUEST		CREATE USER API	1680158065794	1680158066264	OK	 
+REQUEST		CREATE USER API	1680158065705	1680158066265	OK	 
+REQUEST		CREATE USER API	1680158065700	1680158066362	OK	 
+REQUEST		CREATE USER API	1680158065699	1680158066378	OK	 
+REQUEST		CREATE USER API	1680158065769	1680158066388	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066421	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066392	OK	 
+REQUEST		CREATE USER API	1680158065707	1680158066201	OK	 
+REQUEST		CREATE USER API	1680158065697	1680158066413	OK	 
+REQUEST		CREATE USER API	1680158065683	1680158066134	OK	 
+REQUEST		CREATE USER API	1680158065701	1680158066372	OK	 
+REQUEST		CREATE USER API	1680158065702	1680158066463	OK	 
+USER	To create a user in the database	END	1680158066480
+USER	To create a user in the database	END	1680158066480
+USER	To create a user in the database	END	1680158066488
+USER	To create a user in the database	END	1680158066488
+USER	To create a user in the database	END	1680158066488
+USER	To create a user in the database	END	1680158066488
+REQUEST		CREATE USER API	1680158065736	1680158066488	OK	 
+USER	To create a user in the database	END	1680158066490
+USER	To create a user in the database	END	1680158066491
+USER	To create a user in the database	END	1680158066491
+USER	To create a user in the database	END	1680158066491
+USER	To create a user in the database	END	1680158066495
+USER	To create a user in the database	END	1680158066497
+USER	To create a user in the database	END	1680158066497
+REQUEST		CREATE USER API	1680158065689	1680158066507	OK	 
+REQUEST		CREATE USER API	1680158065697	1680158066507	OK	 
+REQUEST		CREATE USER API	1680158065697	1680158066507	OK	 
+REQUEST		CREATE USER API	1680158065687	1680158066511	OK	 
+USER	To create a user in the database	END	1680158066509
+USER	To create a user in the database	END	1680158066510
+USER	To create a user in the database	END	1680158066510
+USER	To create a user in the database	END	1680158066514
+REQUEST		CREATE USER API	1680158065702	1680158066512	OK	 
+REQUEST		CREATE USER API	1680158065636	1680158066521	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066521	OK	 
+USER	To create a user in the database	END	1680158066522
+USER	To create a user in the database	END	1680158066523
+USER	To create a user in the database	END	1680158066523
+REQUEST		CREATE USER API	1680158065703	1680158066524	OK	 
+REQUEST		CREATE USER API	1680158065927	1680158066525	OK	 
+REQUEST		CREATE USER API	1680158065698	1680158066524	OK	 
+REQUEST		CREATE USER API	1680158065706	1680158066525	OK	 
+USER	To create a user in the database	END	1680158066526
+USER	To create a user in the database	END	1680158066526
+USER	To create a user in the database	END	1680158066527
+REQUEST		CREATE USER API	1680158065636	1680158066527	OK	 
+REQUEST		CREATE USER API	1680158065702	1680158066533	OK	 
+USER	To create a user in the database	END	1680158066532
+REQUEST		CREATE USER API	1680158065694	1680158066534	OK	 
+REQUEST		CREATE USER API	1680158065702	1680158066534	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066536	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066536	OK	 
+REQUEST		CREATE USER API	1680158065748	1680158066537	OK	 
+REQUEST		CREATE USER API	1680158065718	1680158066537	OK	 
+REQUEST		CREATE USER API	1680158065683	1680158066539	OK	 
+REQUEST		CREATE USER API	1680158065707	1680158066538	OK	 
+REQUEST		CREATE USER API	1680158065812	1680158066539	OK	 
+REQUEST		CREATE USER API	1680158065796	1680158066539	OK	 
+REQUEST		CREATE USER API	1680158065720	1680158066540	OK	 
+REQUEST		CREATE USER API	1680158065685	1680158066541	OK	 
+REQUEST		CREATE USER API	1680158065700	1680158066542	OK	 
+REQUEST		CREATE USER API	1680158065722	1680158066543	OK	 
+REQUEST		CREATE USER API	1680158065700	1680158066543	OK	 
+REQUEST		CREATE USER API	1680158065697	1680158066542	OK	 
+REQUEST		CREATE USER API	1680158065637	1680158066544	OK	 
+REQUEST		CREATE USER API	1680158065636	1680158066547	OK	 
+REQUEST		CREATE USER API	1680158065756	1680158066547	OK	 
+REQUEST		CREATE USER API	1680158065706	1680158066550	OK	 
+REQUEST		CREATE USER API	1680158065737	1680158066554	OK	 
+USER	To create a user in the database	END	1680158066536
+USER	To create a user in the database	END	1680158066536
+USER	To create a user in the database	END	1680158066537
+USER	To create a user in the database	END	1680158066537
+USER	To create a user in the database	END	1680158066538
+USER	To create a user in the database	END	1680158066538
+USER	To create a user in the database	END	1680158066539
+USER	To create a user in the database	END	1680158066539
+USER	To create a user in the database	END	1680158066540
+USER	To create a user in the database	END	1680158066541
+USER	To create a user in the database	END	1680158066541
+USER	To create a user in the database	END	1680158066541
+USER	To create a user in the database	END	1680158066541
+USER	To create a user in the database	END	1680158066542
+USER	To create a user in the database	END	1680158066543
+USER	To create a user in the database	END	1680158066545
+USER	To create a user in the database	END	1680158066545
+USER	To create a user in the database	END	1680158066548
+USER	To create a user in the database	END	1680158066549
+USER	To create a user in the database	END	1680158066551
+USER	To create a user in the database	END	1680158066551
+USER	To create a user in the database	END	1680158066555
+USER	To create a user in the database	END	1680158066555
+REQUEST		CREATE USER API	1680158065636	1680158066557	OK	 
+REQUEST		CREATE USER API	1680158065692	1680158066571	OK	 
+REQUEST		CREATE USER API	1680158065698	1680158066573	OK	 
+USER	To create a user in the database	END	1680158066574
+USER	To create a user in the database	END	1680158066574
+USER	To create a user in the database	END	1680158066576
+REQUEST		CREATE USER API	1680158065773	1680158066581	OK	 
+USER	To create a user in the database	END	1680158066583
+REQUEST		CREATE USER API	1680158065687	1680158066583	OK	 
+USER	To create a user in the database	END	1680158066585
+REQUEST		CREATE USER API	1680158065686	1680158066586	OK	 
+REQUEST		CREATE USER API	1680158065685	1680158066588	OK	 
+REQUEST		CREATE USER API	1680158065702	1680158066587	OK	 
+REQUEST		CREATE USER API	1680158065737	1680158066592	OK	 
+REQUEST		CREATE USER API	1680158065704	1680158066592	OK	 
+USER	To create a user in the database	END	1680158066587
+USER	To create a user in the database	END	1680158066590
+USER	To create a user in the database	END	1680158066593
+USER	To create a user in the database	END	1680158066594
+REQUEST		CREATE USER API	1680158065767	1680158066595	OK	 
+REQUEST		CREATE USER API	1680158065636	1680158066592	OK	 
+REQUEST		CREATE USER API	1680158065933	1680158066600	OK	 
+REQUEST		CREATE USER API	1680158065774	1680158066602	OK	 
+REQUEST		CREATE USER API	1680158065738	1680158066596	OK	 
+REQUEST		CREATE USER API	1680158065787	1680158066607	OK	 
+REQUEST		CREATE USER API	1680158065743	1680158066608	OK	 
+USER	To create a user in the database	END	1680158066598
+USER	To create a user in the database	END	1680158066598
+REQUEST		CREATE USER API	1680158065775	1680158066609	OK	 
+USER	To create a user in the database	END	1680158066601
+USER	To create a user in the database	END	1680158066602
+USER	To create a user in the database	END	1680158066604
+USER	To create a user in the database	END	1680158066606
+USER	To create a user in the database	END	1680158066610
+USER	To create a user in the database	END	1680158066611
+REQUEST		CREATE USER API	1680158065699	1680158066621	OK	 
+REQUEST		CREATE USER API	1680158065784	1680158066621	OK	 
+USER	To create a user in the database	END	1680158066620
+USER	To create a user in the database	END	1680158066623
+USER	To create a user in the database	END	1680158066623
+REQUEST		CREATE USER API	1680158065785	1680158066624	OK	 
+USER	To create a user in the database	END	1680158066626
+REQUEST		CREATE USER API	1680158065699	1680158066640	OK	 
+REQUEST		CREATE USER API	1680158065694	1680158066641	OK	 
+REQUEST		CREATE USER API	1680158065636	1680158066640	OK	 
+USER	To create a user in the database	END	1680158066642
+USER	To create a user in the database	END	1680158066643
+REQUEST		CREATE USER API	1680158065783	1680158066655	OK	 
+REQUEST		CREATE USER API	1680158065754	1680158066658	OK	 
+USER	To create a user in the database	END	1680158066653
+USER	To create a user in the database	END	1680158066657
+REQUEST		CREATE USER API	1680158065768	1680158066660	OK	 
+USER	To create a user in the database	END	1680158066660
+USER	To create a user in the database	END	1680158066661
+REQUEST		CREATE USER API	1680158065638	1680158066670	OK	 
+USER	To create a user in the database	END	1680158066672
+REQUEST		CREATE USER API	1680158065638	1680158066728	OK	 
+REQUEST		CREATE USER API	1680158065684	1680158066741	OK	 
+USER	To create a user in the database	END	1680158066740
+USER	To create a user in the database	END	1680158066743
+REQUEST		CREATE USER API	1680158065683	1680158066777	OK	 
+USER	To create a user in the database	END	1680158066780
+REQUEST		CREATE USER API	1680158065921	1680158066793	OK	 
+USER	To create a user in the database	END	1680158066797
+REQUEST		CREATE USER API	1680158065766	1680158076009	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		CREATE USER API	1680158065684	1680158076009	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		CREATE USER API	1680158065769	1680158076025	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076025
+USER	To create a user in the database	END	1680158076025
+USER	To create a user in the database	END	1680158076026
+REQUEST		CREATE USER API	1680158065741	1680158076026	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076027
+REQUEST		CREATE USER API	1680158065738	1680158076028	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076028
+REQUEST		CREATE USER API	1680158065685	1680158076030	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076030
+REQUEST		CREATE USER API	1680158065771	1680158076033	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		CREATE USER API	1680158065702	1680158076034	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076034
+USER	To create a user in the database	END	1680158076034
+REQUEST		CREATE USER API	1680158065690	1680158076056	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		CREATE USER API	1680158065686	1680158076059	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076058
+USER	To create a user in the database	END	1680158076060
+REQUEST		CREATE USER API	1680158066045	1680158076086	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076087
+REQUEST		CREATE USER API	1680158065706	1680158076087	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076088
+REQUEST		CREATE USER API	1680158065704	1680158076088	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076089
+REQUEST		CREATE USER API	1680158065991	1680158076090	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076090
+REQUEST		CREATE USER API	1680158065636	1680158076102	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076102
+REQUEST		CREATE USER API	1680158065812	1680158076117	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076118
+REQUEST		CREATE USER API	1680158066051	1680158076119	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076120
+REQUEST		CREATE USER API	1680158065810	1680158076121	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076121
+REQUEST		CREATE USER API	1680158065754	1680158076122	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076123
+REQUEST		CREATE USER API	1680158065636	1680158076123	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076123
+REQUEST		CREATE USER API	1680158066049	1680158076124	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	To create a user in the database	END	1680158076124

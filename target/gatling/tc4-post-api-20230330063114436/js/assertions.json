@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC4_POST_API",
+  "simulationId": "tc4-post-api",
+  "start": 1680157874436,
+  "description": "a",
+  "scenarios": ["To create a user in the database"],
+  "assertions": [
+
+  ]
+}

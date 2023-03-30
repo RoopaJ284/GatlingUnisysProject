@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC10_DDT_CHECKS",
+  "simulationId": "tc10-ddt-checks",
+  "start": 1680174385502,
+  "description": "",
+  "scenarios": ["Verify Single User API using DDT & asssertions"],
+  "assertions": [
+
+  ]
+}

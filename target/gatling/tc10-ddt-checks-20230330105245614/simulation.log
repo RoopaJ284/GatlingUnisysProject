@@ -1,0 +1,4 @@
+RUN	Simulations.TC10_DDT_CHECKS	tc10-ddt-checks	1680173565614	 	3.6.1
+ERROR	SINGLE USER API: Failed to build request: No attribute named 'empID' is defined 	1680173567161
+USER	Verify Single User API using DDT & asssertions	END	1680173567171
+USER	Verify Single User API using DDT & asssertions	START	1680173567146

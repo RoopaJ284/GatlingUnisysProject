@@ -1,0 +1,4 @@
+RUN	Simulations.TC4_POST_API	tc4-post-api	1680157939979	a	3.6.1
+USER	To create a user in the database	START	1680157941643
+REQUEST		CREATE USER API	1680157941701	1680157942216	OK	 
+USER	To create a user in the database	END	1680157942339

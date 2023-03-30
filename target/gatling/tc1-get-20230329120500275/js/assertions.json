@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC1_GET",
+  "simulationId": "tc1-get",
+  "start": 1680091500275,
+  "description": "LoadTestForGetListUsers",
+  "scenarios": ["To get the list of users from the database"],
+  "assertions": [
+
+  ]
+}

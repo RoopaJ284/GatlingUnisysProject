@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC2_GET_ALL_USERS",
+  "simulationId": "tc2-get-all-users",
+  "start": 1680151696064,
+  "description": "GetAllUsersPage1vUsers5",
+  "scenarios": ["To fetch all users from page-1"],
+  "assertions": [
+
+  ]
+}

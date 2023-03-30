@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC7_DELETE_API",
+  "simulationId": "tc7-delete-api",
+  "start": 1680159539359,
+  "description": "delete API",
+  "scenarios": ["Deleting an existing user"],
+  "assertions": [
+
+  ]
+}

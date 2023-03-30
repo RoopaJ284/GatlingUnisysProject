@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC6_PATCH_API",
+  "simulationId": "tc6-patch-api",
+  "start": 1680159200987,
+  "description": "a",
+  "scenarios": ["To update an existing user using PUT method"],
+  "assertions": [
+
+  ]
+}

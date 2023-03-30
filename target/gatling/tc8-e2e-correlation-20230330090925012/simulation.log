@@ -1,0 +1,4 @@
+RUN	Simulations.TC8_E2E_CORRELATION	tc8-e2e-correlation	1680167365012	 	3.6.1
+USER	End2End Testing of APIs using Correlation	START	1680167366565
+REQUEST		GET NEW USER CREATED DATA	1680167366603	1680167366811	KO	status.find.is(200), but actually found 404
+USER	End2End Testing of APIs using Correlation	END	1680167366951

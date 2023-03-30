@@ -1,0 +1,4 @@
+RUN	Simulations.TC5_PUT_API	tc5-put-api	1680158802306	putAPI	3.6.1
+USER	To update an existing user using PUT method	START	1680158803858
+REQUEST		UPDATE USER-PUT API	1680158803921	1680158804504	OK	 
+USER	To update an existing user using PUT method	END	1680158804618

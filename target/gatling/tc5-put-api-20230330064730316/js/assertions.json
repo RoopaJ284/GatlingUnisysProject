@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.TC5_PUT_API",
+  "simulationId": "tc5-put-api",
+  "start": 1680158850316,
+  "description": "a",
+  "scenarios": ["To update an existing user using PUT method"],
+  "assertions": [
+
+  ]
+}
