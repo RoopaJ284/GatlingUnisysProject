@@ -40,6 +40,17 @@
         <groupId>io.gatling</groupId>
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
+
+        <configuration>
+          <runMultipleSimulations>true</runMultipleSimulations>
+          <includes>
+            <include>Simulations.*</include>
+          </includes>
+          <excludes>
+            <exclude>my.package.IgnoredSimulation</exclude>
+          </excludes>
+        </configuration>
+
       </plugin>
     </plugins>
   </build>
